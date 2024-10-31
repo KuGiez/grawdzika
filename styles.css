@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: whitesmoke;
+}
+.game-container {
+    margin-top: 50px;
+}
+.dzik {
+    width: 100px; cursor: pointer;
+}
+.liczba {
+    font-size: 48px;
+}
+.wynik {
+    font-size: 24px;
+}
+.informacja {
+    color: whitesmoke;
+    font-size: 24px;
+}
